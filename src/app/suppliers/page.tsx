@@ -85,7 +85,7 @@ export default function SuppliersPage() {
                             value={formData.name}
                             onChange={(e) => setFormData({ ...formData, name: e.target.value })}
                             required
-                            placeholder="Ex: Distribuidora ABC"
+                            placeholder="Ex: Fornecedor de Frios ABC"
                         />
                     </div>
                     <div>

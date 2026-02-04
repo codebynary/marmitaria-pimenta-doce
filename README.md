@@ -2,6 +2,12 @@
 
 Sistema completo de gestão para marmitaria, desenvolvido com Next.js, TypeScript, Prisma e SQLite.
 
+![Standard](https://img.shields.io/badge/standard-pending_compliance-yellow?style=for-the-badge)
+
+> [!WARNING]
+> **Aguardando Padronização Antigravity**: Este projeto deve ser migrado para arquitetura "Docker Dev / Native Prod".
+> Consulte: `.agent/PROJECT_STATUS.md` e a tarefa associada.
+
 ## 🚀 Funcionalidades
 
 - **Dashboard** com métricas em tempo real
